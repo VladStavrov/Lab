@@ -1,0 +1,4 @@
+﻿  Laba№6v1.0.cpp
+C:\My\Projects2\Laba№6v1.0\Laba№6v1.0\Laba№6v1.0.cpp(139,15): warning C4552: ">>": результат выражения не используется
+C:\My\Projects2\Laba№6v1.0\Laba№6v1.0\Laba№6v1.0.cpp(354): warning C4717: PoickSrednlev: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Laba№6v1.0.vcxproj -> C:\My\Projects2\Laba№6v1.0\x64\Debug\Laba№6v1.0.exe
